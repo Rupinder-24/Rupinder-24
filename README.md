@@ -1,4 +1,4 @@
-[![MasterHead](https://designs.ai/designmaker/start/designs/6682ebddc3f20f0012564f28/view)]
+![logo](https://github.com/Rupinder-24/Rupinder-24/blob/main/R%20(2).png)
 
 
 
