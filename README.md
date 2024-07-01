@@ -5,6 +5,9 @@
 
 
 
+
+
+
 <h1 align="center">Hi 👋, I'm Rupinder Murmu</h1>
 <h3 align="center">A passion for coding as well as development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -17,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rupinder-murmu-2b5135259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rupinder-murmu-2b5135259/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rupinder-murmu-2b5135259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupinder-murmu-2b5135259" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rupindermurmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rupindermurmu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rupinder_murmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupinder_murmu" height="30" width="40" /></a>
 </p>
