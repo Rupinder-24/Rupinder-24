@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi https://pin.it/1hOvVaCmI, I'm Rupinder Murmu</h1>
+<h1 align="center">Hi 👋, I'm Rupinder Murmu</h1>
 <h3 align="center">A passion for coding as well as development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
