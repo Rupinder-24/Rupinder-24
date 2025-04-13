@@ -32,12 +32,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Rupinder-24"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rupinder-24" /></a></p><br><br>
+<h1 align="left">📊 GitHub Stats:</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupinder-24&show_icons=true&locale=en" alt="rupinder-24" /></p><br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupinder-24&" alt="rupinder-24" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupinder-24&show_icons=true&locale=en&layout=compact" alt="rupinder-24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupinder-24&show_icons=true&locale=en" alt="rupinder-24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupinder-24&" alt="rupinder-24" /></p>
 
 
 
